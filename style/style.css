@@ -44,3 +44,33 @@ mark{
     background-color: yellow;
     color: black;
 }
+
+section.lista{
+    font-family: "Playfair Display", serif;
+    font-size: bolder 15px;
+    margin-top: 20px;
+    margin-bottom: none;
+}
+
+.table-color{
+    background-color: rgb(42, 152, 241);
+    color: white;
+}
+
+table{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-repeat: repeat;
+    width: 100%;
+    
+}
+
+.table-data{
+    background-color: rgb(118, 226, 240);
+}
+
+div.footer{
+    font-family: "playfair Display"; 
+    color: grey;
+}
+
