@@ -4,11 +4,11 @@ header{
     height:150px;
     background-image: url('../img/pattern.png') ;
     background-repeat: repeat;
+    padding: 0% 0% 0% 0%;
 }
 
 img.logo{
     margin-top: 90px;
-    margin-bottom: 20px;
 }
 
 h1{
@@ -29,6 +29,7 @@ h2{
 p.header{
     font-family: "Playfair Display", serif;
     font-size: 15px;
+    font-weight: 500;
     color: grey;
     margin-top: none;
     margin-bottom: none;
@@ -37,6 +38,7 @@ p.header{
 div.descrizione{
     font-family: "Playfair Display", serif;
     font-size: 15px;
+    font-weight: 500;
     margin-top: none;
 }
 
@@ -62,7 +64,6 @@ table{
     margin-bottom: 30px;
     background-repeat: repeat;
     width: 100%;
-    
 }
 
 .table-data{
@@ -70,7 +71,7 @@ table{
 }
 
 div.footer{
-    font-family: "playfair Display"; 
+    font-family: "Playfair Display", serif; 
     color: grey;
 }
 
