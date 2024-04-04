@@ -55,11 +55,19 @@ section.lista{
     margin-bottom: none;
 }
 
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
 .table-color{
     background-color: rgb(42, 152, 241);
     color: white;
 }
 
+.t-width{
+    width: 50%
+}
 table{
     margin-top: 30px;
     margin-bottom: 30px;
